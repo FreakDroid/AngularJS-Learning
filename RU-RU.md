@@ -9,7 +9,10 @@ AngularJS
 * [Переодически публикуемые материалы на habrahabr](http://habrahabr.ru/hub/angularjs/)
 * [Серия статей по AngularJS](http://job-blog.bullgare.ru/category/programming/javascript/angular-js-javascript/)
 * [Русскоязычный форум](http://javascript.ru/forum/angular/)
+<<<<<<< HEAD
 * [Русскоязычный FAQ](http://toster.ru/tag/angular.js)
+=======
+>>>>>>> upstream/master
 
 ## Статьи
 
@@ -38,3 +41,11 @@ AngularJS
  
 ## Книги
 * [РАЗРАБОТКА ВЕБ-ПРИЛОЖЕНИЙ С ИСПОЛЬЗОВАНИЕМ ANGULARJS](http://dmkpress.com/catalog/computer/web/978-5-97060-064-1/)
+<<<<<<< HEAD
+=======
+* 
+
+## Помощь
+* [RU StackOverflow](http://ru.stackoverflow.com/questions/tagged/angularjs)
+* [Toster](https://toster.ru/tag/angular.js/questions)
+>>>>>>> upstream/master

@@ -27,4 +27,8 @@ AngularJS.
 
 ## Twitter
 
+<<<<<<< HEAD
 * [AngularJS Germany - @angularjs_de](https://twitter.com/angularjs_de)
+=======
+* [AngularJS Germany - @angularjs_de](https://twitter.com/angularjs_de)
+>>>>>>> upstream/master
